@@ -53,7 +53,7 @@ This project was designed to assess my ability to handle non-"clean" data and id
 ## The Presentation
 [Link to the Canva presentation](https://www.canva.com/design/DAFvhdXaJc0/OJJifNyJHsOXGm3QezVtTw/edit?utm_content=DAFvhdXaJc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![Presentation1]((https://github.com/Nerya11/Unlocking-Mobile-Application-Insights/assets/143937043/955072da-546b-41e6-863c-cd7bc7984769)
+![Presentation1](https://github.com/Nerya11/Unlocking-Mobile-Application-Insights/assets/143937043/955072da-546b-41e6-863c-cd7bc7984769)
 ![Presentation2](png/2.png)
 ![Presentation3](png/3.png)
 ![Presentation4](png/4.png)
